@@ -1,9 +1,8 @@
 # Portofolio
 
 ## [(Redesign) - Random Chat](https://github.com/annng/Portofolio/blob/main/android/randomChat.md)
-| Before      | After |
-| :----:      |    :----:   |
-| <img src="https://user-images.githubusercontent.com/31025016/173274946-7207f09f-b057-4e13-bc05-24c7901cfe32.png" width="250"/> | <img src="https://user-images.githubusercontent.com/31025016/173274985-bff3c5e7-0a47-4c79-9c8a-c14eb35af0a6.png" width="250"/> |
+<img src="https://user-images.githubusercontent.com/31025016/173297398-4a66cccf-8d31-4ea4-a991-bd4bdad7f996.png" height="300"/>
+
 
 ## [(Build) - Taaruf Online Indonesia](https://github.com/annng/Portofolio/blob/main/android/taarufOnlineIndonesia.md)
 
