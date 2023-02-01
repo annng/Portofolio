@@ -28,6 +28,6 @@
 # iOS
 
 
-## [(Develop) - Staffinc Work](https://github.com/annng/Portofolio/blob/main/iOS/Simpel-G.md)
+## [(Develop) - Simpel-G](https://github.com/annng/Portofolio/blob/main/iOS/Simpel-G.md)
 <img src="https://user-images.githubusercontent.com/31025016/215976323-44f841f3-311e-426a-bedb-2bc800ff2fd8.png" width="600"/>
 
