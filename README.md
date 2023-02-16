@@ -1,10 +1,10 @@
 # Portofolio
 
-[Android](https://github.com/annng/Portofolio/edit/main/README.md#android-1)
+[Android](https://github.com/annng/Portofolio#android)
 
-[iOS](https://github.com/annng/Portofolio/edit/main/README.md#ios-1)
+[iOS](https://github.com/annng/Portofolio#ios)
 
-[Flutter](https://github.com/annng/Portofolio/edit/main/README.md#flutter-1)
+[Flutter](https://github.com/annng/Portofolio#flutter)
 
 # Android
 
