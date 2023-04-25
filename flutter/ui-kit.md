@@ -1,4 +1,4 @@
-# Coin Wallet
+# [Coin Wallet](https://github.com/annng/coin-flutter)
 
 | Login | Onboard | Home |
 |-------- | -----------| ----------|
