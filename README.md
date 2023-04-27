@@ -6,7 +6,7 @@
 
 [Flutter](https://github.com/annng/Portofolio#flutter)
 
-[UI-KIT)](https://github.com/annng/Portofolio/tree/main/ui-kit)
+[UI-KIT](https://github.com/annng/Portofolio/tree/main/ui-kit)
 
 # Android
 
