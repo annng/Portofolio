@@ -16,7 +16,7 @@
 ## [(Build) - Taaruf Online Indonesia / Dating App | 2018 - 2021 |](https://github.com/annng/Portofolio/blob/main/android/taarufOnlineIndonesia.md)
 <img src="https://user-images.githubusercontent.com/31025016/173281520-8d38cb5d-0715-4eb1-9394-92d73c03ee32.png" width="600"/>
 
-## [(Build) - Kinden / Reporting App | 2018 |](https://github.com/annng/Portofolio/blob/main/android/sewasewa.md)
+## [(Build) - Kinden / Reporting App | 2018 |](https://github.com/annng/Portofolio/blob/main/android/kinden.md)
 <img src="https://github.com/annng/Portofolio/assets/31025016/39eb2e44-ae60-4376-9008-83c476c4c84a" width="600"/>
 
 ## [(Build) - Sewasewa / Ecommerce | 2018 |](https://github.com/annng/Portofolio/blob/main/android/sewasewa.md)
