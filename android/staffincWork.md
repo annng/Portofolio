@@ -5,8 +5,9 @@
 
 Staffinc Work is HRIS Apps for blue chollar worker. There are many features for worker.
 
-[Feature](https://github.com/annng/Portofolio/main/android/staffincWork.md#feature)
-[Contribution](https://github.com/annng/Portofolio/main/android/staffincWork.md#contribution)
+[Feature](https://github.com/annng/Portofolio/blob/main/android/staffincWork.md#feature)
+
+[Contribution](https://github.com/annng/Portofolio/blob/main/android/staffincWork.md#contribution)
 
 ## Feature  
 ### Attendace
